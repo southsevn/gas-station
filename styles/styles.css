@@ -1,0 +1,23 @@
+body {
+  width: 600px;
+  margin: 100px auto;
+}
+
+.ui.card.auto-card {
+  width: 100%;
+}
+
+.ui.card .header {
+  margin-bottom: 10px;
+}
+
+.ui.progress {
+  margin-bottom: 30px;
+}
+
+.ui.fixed.menu {
+  width: 600px;
+  margin: auto;
+  left: auto;
+  right: auto;
+}
